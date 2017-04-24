@@ -1,6 +1,8 @@
 h1 {
-    font: 20px sans-serif;
-    color: red;
+    font: 20px Courier;
+    color: gold;
+    background: grey;
+    text-align: center;
 }
 
 p {
