@@ -1,5 +1,6 @@
 h1 {
-    font: 20px "Arial" blue;
+    font: 20px sans-serif;
+    color: red;
 }
 
 p {
